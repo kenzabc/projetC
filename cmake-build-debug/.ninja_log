@@ -1,0 +1,9 @@
+# ninja log v5
+2	141	7037677926978504	CMakeFiles/projetC.dir/main.c.obj	82dfe470de2f1122
+141	253	7037677928069060	projetC.exe	aa0f0425cfdf0be8
+5	72	7037695931472508	CMakeFiles/projetC.dir/shapes.c.obj	e57ea7b2741ad07a
+1	58	7037696142511125	CMakeFiles/projetC.dir/main.c.obj	82dfe470de2f1122
+61	146	7037696143354724	projetC.exe	7a6523e0587ce755
+2	53	7037697029821676	CMakeFiles/projetC.dir/main.c.obj	82dfe470de2f1122
+54	130	7037697030559111	projetC.exe	7a6523e0587ce755
+2	72	7037700019710643	CMakeFiles/projetC.dir/shapes.c.obj	e57ea7b2741ad07a
